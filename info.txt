@@ -1,0 +1,9 @@
+Nombre del alumno: Alejandro Vladimir Vázquez Valles
+
+Fecha: 10 de marzo de 2026
+
+Objetivo de la actividad:
+Aprender a utilizar Git y GitHub para trabajar con repositorios y ramas.
+
+¿Qué es un Pull Request?
+Es una solicitud para fusionar cambios de una rama a otra dentro de un repositorio.
