@@ -1,0 +1,8 @@
+Proyecto: Git Conflicts
+Responsable: Alejandro Vladimir Vazquez Valles
+Version: 1.0
+
+
+
+
+
