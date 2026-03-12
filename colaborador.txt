@@ -1,0 +1,3 @@
+Práctica de aprobación de Pull Request
+Alumno: Alejandro Vázquez
+Fecha: 2026
